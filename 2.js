@@ -1,7 +1,6 @@
 // 피보나치 만들기
 // 짝수이면 더하기 (reduce 이용?)
 
-let array_fibo = []
 let sum = 0
 let x = 1
 const fibo = (x) => {
